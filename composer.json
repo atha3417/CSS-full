@@ -11,10 +11,10 @@
         }
     ],
     "require": {
-        "atha/css": "^dev-master",
-        "atha/css-layouting": "^dev-master",
-        "atha/css3": "^dev-master",
-        "atha/css-flexbox": "^dev-master",
-        "atha/css-grid": "^dev-master"
+        "atha/css": "dev-master",
+        "atha/css-layouting": "dev-master",
+        "atha/css3": "dev-master",
+        "atha/css-flexbox": "dev-master",
+        "atha/css-grid": "dev-master"
     }
 }
