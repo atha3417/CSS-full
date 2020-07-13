@@ -15,7 +15,7 @@
         "atha/css-layouting": "^1.0",
         "atha/css3": "^1.0",
         "atha/css-flexbox": "^1.0",
-        "atha/css-grid": "^1.0"
+        "atha/css-grid": "^1.0",
         "atha/sass": "^1.0"
     }
 }
