@@ -1,0 +1,20 @@
+{
+    "name": "atha/css-full",
+    "description": "Just CSS code",
+    "keywords": ["css", "css-layouting", "css-grid", "css-flexbox", "css3"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ],
+    "require": {
+        "atha/css": "^*",
+        "atha/css-layouting": "^*",
+        "atha/css3": "^*",
+        "atha/css-flexbox": "^*",
+        "atha/css-grid": "^*"
+    }
+}
